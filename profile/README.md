@@ -19,6 +19,7 @@ Our philosophy is simple: **My Data, My Business.** If systems seek to fingerpri
 *The Spartan Anti-Fingerprinting Browser*
 * **What it does:** Fights client-side surveillance by dynamically spoofing canvas fingerprints, audio APIs, system fonts, screen geometries, and User-Agents.
 * **Active Defense:** Features an integrated **Ad-Intoxication Engine** that intercepts ad delivery networks and fires automated, background navigation clones to emulate chaotic ad-clicking behaviour, poisoning advertising telemetry databases.
+* **Mobile Companion:** Works in tandem with [Juanita Companion](https://github.com/TheRandomConsortium/JuanitaBananaCompanion) via a secure foreground heartbeat service to automate solving reCAPTCHA v3 QR codes using Android Accessibility Services.
 
 ### 🌭 [Circle Jerk Protocol](https://github.com/TheRandomConsortium/CircleJerkProtocol)
 *The Hot Potato P2P File Sharing Swarm*
@@ -36,6 +37,26 @@ Our philosophy is simple: **My Data, My Business.** If systems seek to fingerpri
 *The Vengeful Anti-Spam Telephony Protocol*
 * **What it does:** An aggressive telephone daemon that intercepts incoming spam and phishing calls.
 * **Active Defense:** Rather than silently blocking spammers, it blasts them with high-speed machine-readable legal opt-out notices (GDPR Article 17) to invoke statutory liabilities, traps call centers in decoy reflection loops (playing previous spammers' voices back to them), and shares blacklisted numbers across a P2P gossip network.
+
+---
+
+## 🛑 Supported Platforms (The "Code It Yourself" Clause)
+
+**We build software for sovereign operating systems. We do not support corporate spyware or walled gardens.**
+
+### Desktop Suite (Juanita Banana & Circle Jerk Protocol)
+* **Supported:** Linux.
+* **Considered:** BSD (Real BSD, not Apple's proprietary bastardization).
+* **Rejected:** Windows & macOS.
+
+**Do NOT open issues requesting Windows or Mac ports.** Running a hyper-paranoid, anti-telemetry privacy suite on an operating system that keylogs you by default is a paradox. If you want that shit, fork the repo and code it yourself. And no, BSD being on the table is not an excuse to beg for a Darwin port *"because it's essentially the same"*. It is not.
+
+### Mobile Suite (Tomato Telefonato & Rodolfo Cabrales)
+* **Supported:** Android (Sideloaded raw APKs only).
+* **Rejected:** iOS / Apple App Store.
+
+**Do NOT request iOS support.** We will never ask a trillion-dollar corporation for permission to run local code on hardware you ostensibly own. 
+*Future Notice:* Once Google inevitably enforces hardware-backed anti-sideloading DRM (Play Integrity APIs) to kill open computing, we will drop mainstream Android entirely. The suite will migrate exclusively to sovereign Linux mobile environments (LineageOS, GrapheneOS, Ubuntu Touch).
 
 ---
 
