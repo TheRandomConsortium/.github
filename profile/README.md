@@ -2,7 +2,7 @@
 ### "My Data, My Business Avengers" — The Privacy Suite that Fights Back
 
 <div align="center">
-  <img src="assets/avengers.jpg" width="600" alt="The Random Consortium Privacy Suite Avengers">
+  <img src="assets/avengers.png" width="600" alt="The Random Consortium Privacy Suite Avengers">
 </div>
 
 ---
