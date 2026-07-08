@@ -33,10 +33,16 @@ Our philosophy is simple: **My Data, My Business.** If systems seek to fingerpri
 * **Dual-Path Exchange:** Supports collaborative physical purchases (card detail sharing) and P2P crypto-fiat interchange (Monero/Bitcoin) with optional, configurable commission support.
 * **Active Defense:** When generating transactions, the client auto-populates metadata fields (session IDs, references, memos) by copying and mimicking patterns of public exchange transfers, rendering P2P value movement indistinguishable from routine centralized exchange operations.
 
-### 🍅 [Tomato Telefonato](https://github.com/TheRandomConsortium/TomatoTelefonato)
-*The Vengeful Anti-Spam Telephony Protocol*
-* **What it does:** An aggressive telephone daemon that intercepts incoming spam and phishing calls.
-* **Active Defense:** Rather than silently blocking spammers, it blasts them with high-speed machine-readable legal opt-out notices (GDPR Article 17) to invoke statutory liabilities, traps call centers in decoy reflection loops (playing previous spammers' voices back to them), and shares blacklisted numbers across a P2P gossip network.
+### 🍅 [The Tomatos](https://github.com/TheRandomConsortium/TheTomatos)
+*The Vengeful Anti-Spam Suite (Telephony & Physical Mail)*
+The Tomatos is a suite of aggressive defensive agents designed to eradicate spam, both in the digital telephony domain and the physical mailbox domain.
+
+* **🍅 Tomato Telefonato (Telephony Protocol):**
+  * **What it does:** Intercepts incoming spam and phishing calls.
+  * **Active Defense:** Rather than silently blocking, it blasts callers with high-speed machine-readable GDPR Article 17 opt-out notices to invoke statutory liability, traps call centers in decoy reflection loops (playing previous spammers' voices back to them), and shares blacklisted numbers across a P2P gossip network.
+* **🍅 Tomato Buzonato (Physical Domain Protocol):**
+  * **What it does:** Eradicates physical unsolicited mail (buzoneo) by weaponizing OCR and zero-friction legal escalation.
+  * **Active Defense:** Leverages a physical "NO PUBLICIDAD" sticker firewall. Scans flyer drops via OCR, extracts brands/DPOs, and automatically compiles/dispatches GDPR Art 17/21 or "culpa in vigilando" legal complaints to DPOs, city councils, and data protection authorities.
 
 ---
 
@@ -51,7 +57,7 @@ Our philosophy is simple: **My Data, My Business.** If systems seek to fingerpri
 
 **Do NOT open issues requesting Windows or Mac ports.** Running a hyper-paranoid, anti-telemetry privacy suite on an operating system that keylogs you by default is a paradox. If you want that shit, fork the repo and code it yourself. And no, BSD being on the table is not an excuse to beg for a Darwin port *"because it's essentially the same"*. It is not.
 
-### Mobile Suite (Tomato Telefonato & Rodolfo Cabrales)
+### Mobile Suite (The Tomatos & Rodolfo Cabrales)
 * **Supported:** Android (Sideloaded raw APKs only).
 * **Rejected:** iOS / Apple App Store.
 
